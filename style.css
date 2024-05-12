@@ -35,6 +35,9 @@ button {
     letter-spacing: 1px;
     color: #ffffff;
 }
+button:hover{
+    background-color: gray;
+}
 
 img {
     width: 595.18px;
